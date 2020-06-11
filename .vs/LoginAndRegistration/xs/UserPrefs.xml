@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{A2A539D6-F2E3-4843-85FF-9226BD79394F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Views/Home/Success.cshtml">
+    <Files>
+      <File FileName="Models/LRUserClass.cs" Line="17" Column="30" />
+      <File FileName="Views/Home/RegistrationPartial.cshtml" Line="29" Column="8" />
+      <File FileName="Views/Home/LoginPartial.cshtml" Line="2" Column="17" />
+      <File FileName="Controllers/HomeController.cs" Line="118" Column="1" />
+      <File FileName="Views/Home/Index.cshtml" Line="8" Column="11" />
+      <File FileName="Models/LoginUser.cs" Line="19" Column="1" />
+      <File FileName="Views/Home/Success.cshtml" Line="6" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LoginAndRegistration" expanded="True">
+            <Node name="LoginAndRegistration" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True">
+                  <Node name="Success.cshtml" selected="True" />
+                </Node>
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.LoginAndRegistration PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
